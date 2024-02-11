@@ -15,3 +15,6 @@ The game "Three Plus Two Poker" is a card game typically played by two players. 
 7. Compare the totals of the two players, and the player with the higher total wins.
 
 8. For example, if one player's three groups are 6, 8, and 10, and their two groups are 7 and 9, their total would be (6+8+10) + (7+9) = 40. If the other player's total is 36, the first player wins.
+
+Preview:
+![image](https://github.com/kztan2004/Three-Plus-Two-Poker-Card-Game-Algorithm/assets/159675300/260a95fc-31f4-4ac5-aee1-f8f9d80a2cc3)
